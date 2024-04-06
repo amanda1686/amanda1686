@@ -1,4 +1,5 @@
 <h1>I´m Amanda</h1>
+
 ![image](https://github.com/amanda1686/amanda1686/assets/80174591/b4d1a896-0275-48be-957b-765703a06ec3)
 
 As a person who is passionate about programming🖥💻💻🖥💿💾.
