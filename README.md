@@ -1,6 +1,7 @@
 <h1>I´m Amanda</h1>
 
-![image](https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![image](https://github.com/amanda1686/amanda1686/assets/80174591/2644214b-4fd2-4123-a6ac-72fb3756eee5)
+
 
 As a person who is passionate about programming🖥💻💻🖥💿💾.
 I have always been interested in how technology can improve our lives and how we can use it to solve complex problems. One of my passions is improving the user experience. I believe that good software is one that is easy to use, intuitive and responds to the user's needs. I would like to contribute to the creation of this type of software.
